@@ -1,0 +1,8 @@
+{
+  "name": "korean-reply-guard",
+  "version": "0.1.0",
+  "description": "마지막 답이 한국어가 아니면 Stop 에서 막고 다시 쓰게 한다(코드·경로·식별자 제외)",
+  "author": {
+    "name": "duddudcns"
+  }
+}
